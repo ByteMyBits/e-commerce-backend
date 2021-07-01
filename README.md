@@ -6,9 +6,9 @@ We can harness the power of databases and API routes to do the heavy lifting for
 
 ## How to use it
 
-Clone this repo and run `npm install` followed by `npm node server.js` in the command line.
+Clone this repo and run `npm install` followed by `npm node server.js` in the command line. Then `npm run seed` followed by `npm run start` to seed and start the server. Make sure you've created the database beforehand and added your DB in a .env file.
 
 
-
+[Video demonstration](https://drive.google.com/file/d/14swRZ0G9Ek8Z02IlMJ4Xpe_FIVDd88gd/view?usp=sharing)
 
 
